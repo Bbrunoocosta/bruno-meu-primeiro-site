@@ -1,0 +1,51 @@
+body{
+    background-color: rgba(255, 68, 0, 0.699);
+
+}
+.tema{
+    background-color: rgba(0, 0, 0, 0.473);
+    margin: 10px;
+    margin-left:300px ;
+    margin-right:300px ;
+    padding-left:50px ;
+
+}
+.titulo{
+    background-color: rgba(0, 0, 0, 0.473);
+    margin:10px;
+    margin-left:300px ;
+    margin-right:300px ;
+    padding-left:90px ;
+}
+.textos{
+    background-color: rgba(0, 0, 0, 0.473);
+    margin-left:300px ;
+    margin-right:300px ;
+    padding-left:10px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.box1{
+background-color: rgba(255, 255, 255, 0.267);
+margin: 20px;
+}
+.box2{
+background-color: rgba(255, 255, 255, 0.24);
+margin: 20px;
+}
+.box3{
+    background-color: rgba(255, 255, 255, 0.205);
+    margin: 20px;
+}
+.box4{
+    background-color: rgba(255, 255, 255, 0.212);
+    margin: 20px;
+}
+.box5{
+    background-color: rgba(255, 255, 255, 0.233);
+    margin: 20px;
+}
+.box6{
+    background-color: rgba(255, 255, 255, 0.253);
+    margin:20px;
+}
